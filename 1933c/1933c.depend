@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718118405 source:/home/kali/Desktop/coding/problems/codeforces/1933c/main.c
+	<stdio.h>
+	<stdlib.h>
+

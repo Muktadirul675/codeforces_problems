@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716655894 source:/home/kali/Desktop/coding/problems/codeforces/1975c/main.cpp
+	<iostream>
+	<algorithm>
+

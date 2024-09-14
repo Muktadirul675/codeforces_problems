@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706602160 source:/home/kali/Desktop/c++/problems/codeforces/110a/main.cpp
+	<bits/stdc++.h>
+	<string>
+
